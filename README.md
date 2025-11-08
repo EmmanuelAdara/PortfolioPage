@@ -19,7 +19,7 @@
 ## Selected Projects 
 
 ---
-### Machine Learning Application to Biochemical Kinetics
+### [Machine Learning Application to Biochemical Kinetics](https://ieeexplore.ieee.org/abstract/document/10504344)
 
 A machine learning framework called Nessie is applied to some notable biochemical systems to
 generate the marginal probabilities that describe the evolution of those systems over time.
@@ -30,7 +30,7 @@ generate the marginal probabilities that describe the evolution of those systems
 [![](https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)](https://www.latex-project.org/)
 
-[See Paper](https://ieeexplore.ieee.org/abstract/document/10504344)
+
 ---
 
 ### Improving Metagenome Assembly Scaffolding With Machine Learning
