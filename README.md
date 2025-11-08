@@ -33,3 +33,15 @@ The project aims to determine machine learning approaches that can outperform th
 
 
 ---
+### Method of Moments for Approximating Vascular Endothelial Growth Factor (VEGF) Receptor Models
+
+We apply the method of moments to the VEGF receptor model, which describes the role of VEGF in the regulation of blood vessel formation
+and growth through a series of molecular interactions between VEGF and its receptors on the surface of endothelial cells. The method’s accuracy
+is evaluated by comparing the results with those obtained from the stochastic simulation algorithm and the chemical Langevin equation. The VEGF model is of interest because of the role of VEGF in the growth of cancer and other inflammatory diseases and the potential use of anti-VEGF therapies in the treatment of cancer.
+
+<img src="Images/CS_Poster.pdf?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) 
+
+
+---
