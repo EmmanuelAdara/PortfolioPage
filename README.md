@@ -3,7 +3,7 @@
 #### Technical Skills: Python, MATLAB, FORTRAN, MATHEMATICA, Julia, C#, SQL
 
 ## Education
-- Ph.D., Mathematics | University of Alabama, Tuscaloosa (_May 2025_)								       		
+- Ph.D., Mathematics | University of Alabama, Tuscaloosa (_2025_)								       		
 - M.A., Mathematics	| University of Alabama, Tuscaloosa  (_December 2022_)	 			        		
 - M.Tech., Industrial Mathematics | FUTA (_August 2019_)
 - B.Tech., Industrial Mathematics | FUTA (_December 2014_)
