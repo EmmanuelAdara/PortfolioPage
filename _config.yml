@@ -4,8 +4,7 @@ logo: "/Images/profile.png?raw=true"  # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   Turning data into stories and algorithms into real-world solutions through machine learning and deep learning.
-  <br><br>
-  <br><br>
+  <br>
 show_downloads: true
 theme: jekyll-theme-minimal
 colors:
