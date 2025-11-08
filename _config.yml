@@ -3,9 +3,8 @@ logo: "/Images/profile.png?raw=true"  # your photo (or logo) here
 #logo: /Images/headshot_circle.png
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  Data science enthusiast passionate about applying machine learning and deep learning to solve real-world problems. I thrive on transforming complex data into actionable insights and developing intelligent, scalable models that drive meaningful impact.
+  Turning data into stories and algorithms into real-world solutions through machine learning and deep learning.
   <br><br>
-  "Data isn’t just numbers; it’s a story waiting to be told through science and creativity"
   <br><br>
 show_downloads: true
 theme: jekyll-theme-minimal
