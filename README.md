@@ -24,7 +24,7 @@
 A machine learning framework called Nessie is applied to some notable biochemical systems to
 generate the marginal probabilities that describe the evolution of those systems over time.
 
-<img src="Images/Doc1.png?raw=true"/>
+<img src="Images/Doc.png?raw=true"/>
 
 [![](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white)](https://julialang.org/)
 [![](https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white)](https://www.mathworks.com/products/matlab.html)
