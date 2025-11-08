@@ -4,3 +4,5 @@ logo: "/Images/profile.png?raw=true"  # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 show_downloads: true
 theme: jekyll-theme-minimal
+colors:
+  crimson: '#900C3F'
