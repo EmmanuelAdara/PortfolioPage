@@ -9,13 +9,14 @@
 - B.Tech., Industrial Mathematics | Federal Univ. Tech. Akure (_2014_)
 
 ## Work Experience
-**Graduate Research Fellow @ Lawrence Berkeley National Lab (_June 2023 - August 2023_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
 **Graduate Research Fellow @ Lawrence Berkeley National Lab (_June 2024 - August 2024_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Worked on a project of improving metagenome assembly scaffolding with machine learning.
+- Comparison of different Large language models (LLMs) and their  applications to genomic datasets with different tokenization.
+
+**Graduate Research Fellow @ Lawrence Berkeley National Lab (_June 2023 - August 2023_)**
+- Application of LLMs to perform downstream tasks (like classification, prediction) on genomic datasets.
+
+
 
 
 ## Selected Projects 
