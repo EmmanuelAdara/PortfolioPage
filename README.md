@@ -4,7 +4,7 @@
 
 ## Education
 - Ph.D., Mathematics | University of Alabama, Tuscaloosa (_May 2025_)								       		
-- M.S., Mathematics	| University of Alabama, Tuscaloosa  (_December 2022_)	 			        		
+- M.A., Mathematics	| University of Alabama, Tuscaloosa  (_December 2022_)	 			        		
 - M.Tech., Industrial Mathematics | FUTA (_August 2019_)
 - B.Tech., Industrial Mathematics | FUTA (_December 2014_)
 
@@ -25,7 +25,7 @@
 ### Improving Metagenome Assembly Scaffolding With Machine Learning
 
 
-The project is set to determine machine learning approaches that can outperform the current heuristics in MetaHipMer (MHM). The learning approach can, in future work, be integrated into the MHM pipeline to offer improved assembly quality to all MHM users, with beneficial results for microbiome work depending on metagenome assembly. 
+The project aims to determine machine learning approaches that can outperform the current heuristics in MetaHipMer (MHM). The learning approach can be integrated into the MHM pipeline in future work to offer improved assembly quality to all MHM users, with beneficial results for microbiome work, depending on the metagenome assembly. 
 
 
 
