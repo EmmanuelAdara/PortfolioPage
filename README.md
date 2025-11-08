@@ -9,15 +9,12 @@
 - B.Tech., Industrial Mathematics | Federal Univ. Tech. Akure (_2014_)
 
 ## Work Experience
-**Graduate Research Fellow @ Lawrence Berkeley National Lab (_June 2024 - August 2024_)**
+**Graduate Research Fellow @ Lawrence Berkeley National Lab (_June - August, 2024_)**
 - Worked on a project of improving metagenome assembly scaffolding with machine learning.
 - Comparison of different Large language models (LLMs) and their  applications to genomic datasets with different tokenization.
 
-**Graduate Research Fellow @ Lawrence Berkeley National Lab (_June 2023 - August 2023_)**
+**Graduate Research Fellow @ Lawrence Berkeley National Lab (_June - August, 2023_)**
 - Application of LLMs to perform downstream tasks (like classification, prediction) on genomic datasets.
-
-
-
 
 ## Selected Projects 
 
