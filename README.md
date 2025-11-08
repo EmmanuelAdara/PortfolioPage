@@ -3,9 +3,10 @@
 #### Technical Skills: Python, MATLAB, MATHEMATICA, Julia, C#, SQL
 
 ## Education
-- Ph.D., Mathematics | The University of Alabama, Tuscaloosa (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Mathematics | University of Alabama, Tuscaloosa (_May 2025_)								       		
+- M.S., Mathematics	| University of Alabama, Tuscaloosa  (_December 2022_)	 			        		
+- M.Tech., Industrial Mathematics | FUTA (_August 2019_)
+- B.Tech., Industrial Mathematics | FUTA (_December 2014_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
@@ -17,16 +18,19 @@
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 
-## Selected projects in data science, machine learning and NLP
+## Selected Projects 
 
 ---
 
-### Deep NLP for hate speech detection
+### Improving Metagenome Assembly Scaffolding With Machine Learning
 
-Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
+
+The project is set to determine machine learning approaches that can outperform the current heuristics in MetaHipMer (MHM). The learning approach can, in future work, be integrated into the MHM pipeline to offer improved assembly quality to all MHM users, with beneficial results for microbiome work depending on metagenome assembly. 
+
+
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
-[View code on Colab](https://colab.research.google.com/drive/)
+#[View code on Colab](https://colab.research.google.com/drive/)
 
 ---
