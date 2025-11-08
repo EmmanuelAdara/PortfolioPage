@@ -25,7 +25,7 @@
 
 The project aims to determine machine learning approaches that can outperform the current heuristics in MetaHipMer (MHM). The learning approach can be integrated into the MHM pipeline in future work to offer improved assembly quality to all MHM users, with beneficial results for microbiome work, depending on the metagenome assembly. 
 
-<img src="Images/CS_Poster.png?raw=true" />
+<img src="Images/CS_Poster.png?raw=true" src="Images/CS_Poster.png?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
