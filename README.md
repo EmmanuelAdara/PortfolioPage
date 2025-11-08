@@ -39,9 +39,12 @@ We apply the method of moments to the VEGF receptor model, which describes the r
 and growth through a series of molecular interactions between VEGF and its receptors on the surface of endothelial cells. The method’s accuracy
 is evaluated by comparing the results with those obtained from the stochastic simulation algorithm and the chemical Langevin equation. The VEGF model is of interest because of the role of VEGF in the growth of cancer and other inflammatory diseases and the potential use of anti-VEGF therapies in the treatment of cancer.
 
-<pdf src="Pdf/CS_Poster.pdf?raw=true"/>
+<img src="Pdf/CS_Poster.pdf?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) 
+[![](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+[![](https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+[![](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)](https://www.latex-project.org/)
 
 
 ---
