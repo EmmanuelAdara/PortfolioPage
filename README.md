@@ -4,7 +4,7 @@
 
 ## Education
 - Ph.D., Mathematics | University of Alabama, Tuscaloosa (_2025_)								       		
-- M.A., Mathematics	| University of Alabama, Tuscaloosa (_2022_)       		
+- M.A., Mathematics	| University of Alabama, Tuscaloosa (_2022_)
 - M.Tech., Industrial Mathematics | Federal Univ. Tech. Akure (_2019_)
 - B.Tech., Industrial Mathematics | Federal Univ. Tech. Akure (_2014_)
 
