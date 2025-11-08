@@ -5,8 +5,8 @@
 ## Education
 - Ph.D., Mathematics | University of Alabama, Tuscaloosa (_2025_)								       		
 - M.A., Mathematics	| University of Alabama, Tuscaloosa  (_2022_)	 			        		
-- M.Tech., Industrial Mathematics | Fedral Univ. Tech. Akure (_2019_)
-- B.Tech., Industrial Mathematics | FUTA (_2014_)
+- M.Tech., Industrial Mathematics | Federal Univ. Tech. Akure (_2019_)
+- B.Tech., Industrial Mathematics | Federal Univ. Tech. Akure (_2014_)
 
 ## Work Experience
 **Graduate Research Fellow @ Lawrence Berkeley National Lab (_June 2023 - August 2023_)**
@@ -41,10 +41,9 @@ is evaluated by comparing the results with those obtained from the stochastic si
 
 <img src="Pdf/CS_Poster.pdf?raw=true"/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) 
-[![](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 [![](https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)](https://www.latex-project.org/)
-
+[![](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white)](https://julialang.org/)
 
 ---
