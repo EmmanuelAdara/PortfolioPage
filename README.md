@@ -5,7 +5,8 @@
 ## Work Experience
 
 **Data Science Projects @ SUNY Binghamton (_August 2025 - Present_)**
--  
+-  Efficient Physics-informed Neural Networks (PINNs) applications in chemical kinetics.
+  
 
 **Graduate Research Fellow @ Lawrence Berkeley National Lab (_June - August, 2024_)**
 - Worked on a project of improving metagenome assembly scaffolding with machine learning.
