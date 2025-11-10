@@ -3,10 +3,9 @@
 #### Technical Skills: Python, MATLAB, FORTRAN, MATHEMATICA, Julia, C#, SQL
 
 ## Work Experience
-**Graduate Research Fellow @ Lawrence Berkeley National Lab (_June - August, 2024_)**
+
 **Data Science Projects @ SUNY Binghamton (_August 2025 - Present)**
--
--
+
 
 **Graduate Research Fellow @ Lawrence Berkeley National Lab (_June - August, 2024_)**
 - Worked on a project of improving metagenome assembly scaffolding with machine learning.
