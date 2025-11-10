@@ -4,7 +4,7 @@
 
 ## Work Experience
 
-**Data Science Projects @ SUNY Binghamton (_August 2025 - Present)**
+**Data Science Projects @ SUNY Binghamton (_August 2025 - Present_)**
 
 
 **Graduate Research Fellow @ Lawrence Berkeley National Lab (_June - August, 2024_)**
