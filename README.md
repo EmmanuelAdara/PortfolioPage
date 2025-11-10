@@ -3,6 +3,7 @@
 #### Technical Skills: Python, MATLAB, FORTRAN, MATHEMATICA, Julia, C#, SQL
 
 ## Work Experience
+
 **Data Science Projects @ SUNY Binghamton (_August 2025 - Present)**
 -
 -
