@@ -2,19 +2,22 @@
 
 #### Technical Skills: Python, MATLAB, FORTRAN, MATHEMATICA, Julia, C#, SQL
 
-## Education
-- Ph.D., Mathematics | University of Alabama, Tuscaloosa (_2025_)								       		
-- M.A., Mathematics	| University of Alabama, Tuscaloosa (_2022_)
-- M.Tech., Industrial Mathematics | Federal Univ. Tech. Akure(_2019_)
-- B.Tech., Industrial Mathematics | Federal Univ. Tech. Akure (_2014_)
-
 ## Work Experience
+**Data Science Projects @ SUNY Binghamton (August 2025 - Present)
+-
+-
 **Graduate Research Fellow @ Lawrence Berkeley National Lab (_June - August, 2024_)**
 - Worked on a project of improving metagenome assembly scaffolding with machine learning.
 - Comparison of different Large language models (LLMs) and their  applications to genomic datasets with different tokenization.
 
 **Graduate Research Fellow @ Lawrence Berkeley National Lab (_June - August, 2023_)**
 - Application of LLMs to perform downstream tasks (like classification, prediction) on genomic datasets.
+
+## Education
+- Ph.D., Mathematics | University of Alabama, Tuscaloosa (_2025_)								       		
+- M.A., Mathematics	| University of Alabama, Tuscaloosa (_2022_)
+- M.Tech., Industrial Mathematics | Federal Univ. Tech. Akure(_2019_)
+- B.Tech., Industrial Mathematics | Federal Univ. Tech. Akure (_2014_)
 
 ## Selected Projects 
 
