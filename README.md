@@ -5,7 +5,7 @@
 ## Work Experience
 
 **Data Science Projects @ SUNY Binghamton (_August 2025 - Present_)**
-- Working on 
+-  
 
 **Graduate Research Fellow @ Lawrence Berkeley National Lab (_June - August, 2024_)**
 - Worked on a project of improving metagenome assembly scaffolding with machine learning.
